@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-26T14:11:01 PDT" name="Suite" finished-at="2022-07-26T14:11:07 PDT" duration-ms="5656">
+    <groups>
+    </groups>
+    <test started-at="2022-07-26T14:11:01 PDT" name="Test" finished-at="2022-07-26T14:11:07 PDT" duration-ms="5656">
+      <class name="apitestcases.PostDDT">
+        <test-method is-config="true" signature="setup()[pri:0, instance:apitestcases.PostDDT@6d4e5011]" started-at="2022-07-26T14:11:02 PDT" name="setup" finished-at="2022-07-26T14:11:02 PDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testpostddt(java.lang.String,java.lang.String)[pri:0, instance:apitestcases.PostDDT@6d4e5011]" started-at="2022-07-26T14:11:03 PDT" name="testpostddt" data-provider="postddt" finished-at="2022-07-26T14:11:05 PDT" duration-ms="2388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[george]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[student]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostddt -->
+        <test-method signature="testpostddt(java.lang.String,java.lang.String)[pri:0, instance:apitestcases.PostDDT@6d4e5011]" started-at="2022-07-26T14:11:05 PDT" name="testpostddt" data-provider="postddt" finished-at="2022-07-26T14:11:06 PDT" duration-ms="512" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alice]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[teacher]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostddt -->
+        <test-method signature="testpostddt(java.lang.String,java.lang.String)[pri:0, instance:apitestcases.PostDDT@6d4e5011]" started-at="2022-07-26T14:11:06 PDT" name="testpostddt" data-provider="postddt" finished-at="2022-07-26T14:11:06 PDT" duration-ms="528" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[joey]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[doctor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostddt -->
+        <test-method signature="testpostddt(java.lang.String,java.lang.String)[pri:0, instance:apitestcases.PostDDT@6d4e5011]" started-at="2022-07-26T14:11:06 PDT" name="testpostddt" data-provider="postddt" finished-at="2022-07-26T14:11:07 PDT" duration-ms="490" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[attorney]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostddt -->
+        <test-method signature="testpostddt(java.lang.String,java.lang.String)[pri:0, instance:apitestcases.PostDDT@6d4e5011]" started-at="2022-07-26T14:11:07 PDT" name="testpostddt" data-provider="postddt" finished-at="2022-07-26T14:11:07 PDT" duration-ms="451" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[business]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpostddt -->
+      </class> <!-- apitestcases.PostDDT -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
